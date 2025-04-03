@@ -37,8 +37,6 @@ The project utilizes the following datasets:
 - **Meteorological Data:** Weather information such as temperature, humidity, and wind speed.
 - **Numerical Weather Prediction (NWP) Data:** Forecasted weather parameters to enhance prediction accuracy.
 
-*Note: Ensure compliance with the licensing terms provided in the `lic_meteo`, `lic_meters`, and `lic_nwp` directories when using these datasets.*
-
 ## Methodology
 
 Our approach includes:
